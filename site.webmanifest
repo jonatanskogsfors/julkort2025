@@ -1,0 +1,21 @@
+{
+  "name": "God Jul 2025",
+  "short_name": "God Jul",
+  "start_url": "/julkort2025/",
+  "scope": "/julkort2025/",
+  "icons": [
+    {
+      "src": "assets/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#070e13",
+  "background_color": "#070e13",
+  "display": "standalone"
+}
